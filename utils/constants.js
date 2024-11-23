@@ -1,0 +1,1 @@
+export const FLIPKART_URL = 'https://fakestoreapi.com/products'
